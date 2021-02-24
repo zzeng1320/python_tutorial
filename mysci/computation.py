@@ -1,3 +1,5 @@
+import math
+
 def compute_windchill(t, v):
     """
     Compute the wind chill factor given the temperature and wind speed
